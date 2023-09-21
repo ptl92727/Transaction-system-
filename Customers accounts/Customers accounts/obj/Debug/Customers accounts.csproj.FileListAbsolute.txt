@@ -1,0 +1,14 @@
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\bin\Debug\Customers accounts.exe.config
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\bin\Debug\Customers accounts.exe
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\bin\Debug\Customers accounts.pdb
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers accounts.csproj.AssemblyReference.cache
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers accounts.csproj.SuggestedBindingRedirects.cache
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers_accounts.Login_frm.resources
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers_accounts.Properties.Resources.resources
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers accounts.csproj.GenerateResource.cache
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers accounts.csproj.CoreCompileInputs.cache
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers accounts.exe
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers accounts.pdb
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers_accounts.Transaction_frm.resources
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers_accounts.Main_frm.resources
+\\newcollege\Documents\StudentData\260545\Documents\.Net Projects\Customers accounts\Customers accounts\obj\Debug\Customers_accounts.Form1.resources
